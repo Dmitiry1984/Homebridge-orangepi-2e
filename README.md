@@ -12,7 +12,7 @@ sudo apt-get update
 sudo apt-get upgrade
 
 Installation of homebridge, homebridge libraries, web interface etc.
-git clone https://github.com/dmitriy1984/Homebridge-orangepi-2e
+git clone https://github.com/Dmitiry1984/Homebridge-orangepi-2e-.git
 cd Homebridge-orangepi-2e
 bash ./install.sh
 
